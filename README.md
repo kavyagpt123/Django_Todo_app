@@ -1,6 +1,6 @@
 Setup Instructions and steps:
 
-step1. Create the Django Project & App
+step1. Create the Django Trasaction management system Project & App
     django-admin startproject todo
     cd todo
     python manage.py startapp tasks
